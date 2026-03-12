@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wireless Alerts Widget</string>
+    <string name="widget_description">Tap to open Wireless Emergency Alerts settings</string>
+    <string name="widget_label">Alerts Settings</string>
+</resources>
